@@ -1,0 +1,4 @@
+Git is a version control system used to track changes in files and projects.
+It allows multiple people to work on the same project without confusion.
+With Git, we can save different versions of our code using commits.
+It helps in collaboration, backup, and managing project history.
